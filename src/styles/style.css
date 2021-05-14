@@ -654,6 +654,10 @@ table {
   transform: scale(1.2);
 }
 
+.links a:focus {
+  outline: none;
+}
+
 .ml6 {
   position: relative;
   font-weight: 900;
